@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to accounts related QA APIs from config server"
+  message: "Welcome to accounts related QA APIs from config serve on GitHub"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@xyz.com"
