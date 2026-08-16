@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to cards related local APIs from config server"
+  message: "Welcome to cards related local APIs from config server on GitHub"
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@xyz.com"
