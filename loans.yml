@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to loans related local APIs from config server"
+  message: "Welcome to loans related local APIs from config server on GitHub"
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@xyz.com"
