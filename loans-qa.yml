@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to loans related QA APIs from config server"
+  message: "Welcome to loans related QA APIs from config server on GitHub"
   contactDetails:
     name: "Cyrano Marita - QA Lead"
     email: "cyrano@xyz.com"
