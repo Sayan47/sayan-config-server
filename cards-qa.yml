@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to cards related QA APIs from config server"
+  message: "Welcome to cards related QA APIs from config server on GitHub"
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "cherryl@xyz.com"
